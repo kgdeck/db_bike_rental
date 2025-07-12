@@ -9,3 +9,5 @@ Relational database scenario:
 There is a small subset-scenario using the tables EMP and SHOP only.
 
 ![ERD Diagram - Emp/Shop-Scenario] (figures/erd01_small.drawio.png)
+
+
