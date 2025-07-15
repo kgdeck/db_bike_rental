@@ -26,7 +26,7 @@ INSERT INTO ADDRESS VALUES (10024, 'CH', 'AG', '5200', 'Brugg', 'Feldstrasse', '
 INSERT INTO ADDRESS VALUES (10025, 'CH', 'VS', '1950', 'Sion', 'Zentralstrasse', '28');
 INSERT INTO ADDRESS VALUES (10026, 'CH', 'VS', '1950', 'Sion', 'Feldstrasse', '21');
 INSERT INTO ADDRESS VALUES (10027, 'CH', 'VS', '3930', 'Visp', 'Feldstrasse', '18');
-INSERT INTO ADDRESS VALUES (10028, 'CH', 'VS', '3930', 'Visp', 'Feldstrasse', '19');
+INSERT INTO ADDRESS VALUES (10028, 'CH', 'VS', '3920', 'Zermatt', 'Bahnhofstrasse', '3');
 INSERT INTO ADDRESS VALUES (10029, 'CH', 'LU', '6003', 'Luzern', 'Wiesenweg', '12');
 INSERT INTO ADDRESS VALUES (10030, 'CH', 'LU', '6003', 'Luzern', 'Webergasse', '5');
 INSERT INTO ADDRESS VALUES (10031, 'CH', 'TI', '6500', 'Bellinzona', 'Industriestrasse', '22');
