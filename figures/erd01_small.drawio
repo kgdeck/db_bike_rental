@@ -47,9 +47,6 @@
         <mxCell id="OnU-D66EaQQ06rdmp6Sh-63" value="is_manager" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OnU-D66EaQQ06rdmp6Sh-64" value="&lt;font style=&quot;font-size: 31px;&quot;&gt;&lt;b&gt;Bike-Rental&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;EMP-SHOP&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="515" y="10" width="180" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
