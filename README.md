@@ -11,7 +11,7 @@ There is a small subset-scenario using the tables EMP and SHOP only.
 ### Creating DB-Schema and Loading Data
 To create the schema and load some data, execute the following SQL-scripts.
 SQL-files are located here:
-* [create tables](https://kgdeck.github.io/db_exercises/data/create_tables_all.sql))
+* [create tables](https://kgdeck.github.io/db_exercises/data/create_tables_all.sql)
 * [insert data](https://kgdeck.github.io/db_exercises/data/insert_all.sql)
 
 Supported Databases: Oracle, Postgres
